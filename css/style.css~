@@ -14,6 +14,18 @@
 	height:10px;
 	background-color:#E0E0E0;
 }
+
+.google{
+	margin:16px 8px;
+	padding:0px 8px;
+	color:#444;
+	border:1px solid #dcdcdc;
+	border-radius:2px;
+	font-weight:bold;
+	font-size:11px;
+	height:27px;
+}
+
 a{
 	font-size:small;
 	font-family:arial,sans-serif;
@@ -57,17 +69,17 @@ a:hover{
 	font-family:arial,sans-serif;
 	width:60em;
 	margin:0 auto;
-	background-color:pink;
 
 }
 
 .footer{
 	display:inline-block;
 	width:80em;
-	height:2em;
+	height:3em;
 	background-color:#E0E0E0;
 }
 .footer a{
+	margin:5px;
 	color:#303030;
 	font-size:small;
 }
