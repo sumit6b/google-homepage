@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google</title>
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class = "nav-bar">
+        <a href="#">+Sumit</a>
+        <a href="#">Gmail</a>
+        <a href="#">Images</a>
+        <span id="button">Share</div>
+        <span class="user-icon"><img src="#" /></div>
+	</div>
+    <div class="center">
+        <div class="logo"><img src="img/logo11w.png"></div>
+        <form>
+            <span id="search"><input type="text" name="search"></span>
+            <div class="buttons">
+            <span id="google"><input type="submit" value="Google Search"></span>
+            <span id="lucky">
+            <input type="submit" value="I'm Feeling lucky">
+        	</span>
+        </form>
+    </div>
+    <div class="lang">
+        Google.co.in offered in:
+        <a href="#">Hindi</a>
+        <a href="#">Bengali</a>
+        <a href="#">Telugu</a>
+        <a href="#">Marathi</a>
+        <a href="#">Tamil</a>
+        <a href="#">Gujarati</a>
+        <a href="#">Kannada</a>
+        <a href="#">Malayalam</a>
+        <a href="#">Punjabi</a>
+    </div>
+    <div class="footer">
+    	<div class="left">
+    		<a href="#">Advertising</a>
+    		<a href="#">Business</a>
+    		<a href="#">About</a>
+    	</div>
+    	<div class="right">
+    		<a href="#">Privacy & Terms</a>
+    		<a href="#">Settings</a>
+    		<a href="#">Use Google.com</a>
+    	</div>
+    </div>
+
+</body>
+</html>
